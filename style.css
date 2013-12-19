@@ -15,11 +15,9 @@ body h1 {
 }
 
 #text {
-  margin-top: 30px;
-  margin-bottom: 150px;
   width: auto;
   border-radius: 10px;
   box-shadow: 6px 6px 10px #7B68EE;
   background-color: #FF6600;
-  height: 180px;
+  height: 100px;
 }
