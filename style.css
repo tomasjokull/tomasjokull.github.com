@@ -24,6 +24,13 @@ body h1 {
   height: 100px;
 }
 
+#heading {
+  height: 200;
+  width: 200;
+  
+  
+}
+
 body {
   background-color: #00BFFF;
 }
